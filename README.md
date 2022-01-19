@@ -1,6 +1,3 @@
-# codepath-prework
-tip calculator
-
 # Pre-work - New Tip Calculator
 
 New Tip Calculator is a tip calculator application for iOS.
